@@ -1,0 +1,1 @@
+// /admin/product/baseTrademark/{page}/{limit}
